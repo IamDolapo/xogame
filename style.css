@@ -3,6 +3,13 @@
 -------------------------------------------------------------- */
 /* Body and Notice styling
 -------------------------------------------------------------- */
+@media (max-width: 480px){
+  .body{
+    background-color: none;
+  }
+  }
+
+
 body {
   background-image: url(img/games.jpg);
   background-size: cover;
