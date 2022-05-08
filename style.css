@@ -5,7 +5,7 @@
 -------------------------------------------------------------- */
 @media (max-width: 480px){
   .body{
-    background-color: none;
+    background-color: none ! important;
   }
   }
 
