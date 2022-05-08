@@ -3,17 +3,11 @@
 -------------------------------------------------------------- */
 /* Body and Notice styling
 -------------------------------------------------------------- */
-@media (max-width: 480px){
-  .body{
-    background-color: none ! important;
-  }
-  }
 
 
 body {
-  background-color: white;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #000000;
+  
   color: #b6b5ca;
   font-family: 'Arial', sans-serif;
   margin: 0;
