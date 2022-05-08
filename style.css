@@ -16,8 +16,10 @@ body {
 }
 
 h5 {
+  outline-color: white;
   font-weight: 400;
   padding: 0 20px;
+  
 }
 
 /* Tic-tac-toe game
