@@ -10,7 +10,7 @@ body {
   Background-repeat: no-repeat;
   Background-size: cover;
   color: #b6b5ca;
-  font-family: 'Arial', sans-serif;
+  font-family: 'poppins', poppins;
   margin: 0;
   text-align: center;
   
@@ -19,6 +19,13 @@ body {
 h5 {
   outline-color: white;
   font-weight: 400;
+  padding: 0 20px;
+  
+}
+
+h3 {
+  outline-color: black;
+  font-weight: bold;
   padding: 0 20px;
   
 }
