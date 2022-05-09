@@ -6,8 +6,9 @@
 
 
 body {
-  background-color: #eabd00;
-  
+  background-image: url("img/butterfly.gif");
+  Background-repeat: no-repeat;
+  Background-size: cover;
   color: #b6b5ca;
   font-family: 'Arial', sans-serif;
   margin: 0;
