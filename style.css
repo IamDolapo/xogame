@@ -6,8 +6,8 @@
 
 
 body {
-  background-image: url("img/butterfly.gif");
-  Background-repeat: no-repeat;
+  background-image: url("img/spiral.gif");
+  Background-repeat: repeat;
   Background-size: cover;
   color: #b6b5ca;
   font-family: 'poppins', poppins;
